@@ -1,0 +1,8 @@
+Book name: All the Light We Cannot See
+Price: 29.87
+Rate: 5
+
+Book name: The Girl You Left Behind (The Girl You Left Behind #1)
+Price: 15.79
+Rate: 1
+

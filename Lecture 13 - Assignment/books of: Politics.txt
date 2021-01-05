@@ -1,0 +1,12 @@
+Book name: Libertarianism for Beginners
+Price: 51.33
+Rate: 2
+
+Book name: Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond
+Price: 52.65
+Rate: 4
+
+Book name: Equal Is Unfair: America's Misguided Fight Against Income Inequality
+Price: 56.86
+Rate: 1
+

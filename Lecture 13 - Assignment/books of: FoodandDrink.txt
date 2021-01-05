@@ -1,0 +1,80 @@
+Book name: Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+Price: 30.52
+Rate: 3
+
+Book name: The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!
+Price: 56.41
+Rate: 1
+
+Book name: My Paris Kitchen: Recipes and Stories
+Price: 33.37
+Rate: 2
+
+Book name: Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed
+Price: 14.02
+Rate: 4
+
+Book name: Layered: Baking, Building, and Styling Spectacular Cakes
+Price: 40.11
+Rate: 1
+
+Book name: The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us
+Price: 37.34
+Rate: 5
+
+Book name: The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking
+Price: 37.6
+Rate: 2
+
+Book name: The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First
+Price: 41.25
+Rate: 1
+
+Book name: Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals
+Price: 42.16
+Rate: 3
+
+Book name: The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth
+Price: 28.77
+Rate: 3
+
+Book name: It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes
+Price: 19.55
+Rate: 1
+
+Book name: Barefoot Contessa Back to Basics
+Price: 28.01
+Rate: 1
+
+Book name: Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again
+Price: 50.62
+Rate: 5
+
+Book name: My Kitchen Year: 136 Recipes That Saved My Life
+Price: 11.53
+Rate: 2
+
+Book name: Everyday Italian: 125 Simple and Delicious Recipes
+Price: 20.1
+Rate: 5
+
+Book name: A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More
+Price: 38.77
+Rate: 1
+
+Book name: Cravings: Recipes for What You Want to Eat
+Price: 20.5
+Rate: 3
+
+Book name: The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York
+Price: 12.34
+Rate: 4
+
+Book name: 32 Yolks
+Price: 53.63
+Rate: 2
+
+Book name: Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories
+Price: 11.38
+Rate: 5
+

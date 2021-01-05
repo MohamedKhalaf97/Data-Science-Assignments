@@ -1,0 +1,28 @@
+Book name: Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master
+Price: 37.97
+Rate: 2
+
+Book name: You Are What You Love: The Spiritual Power of Habit
+Price: 21.87
+Rate: 4
+
+Book name: God: The Most Unpleasant Character in All Fiction
+Price: 30.03
+Rate: 5
+
+Book name: The Book of Mormon
+Price: 24.57
+Rate: 3
+
+Book name: A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam
+Price: 27.62
+Rate: 1
+
+Book name: The Bhagavad Gita
+Price: 57.49
+Rate: 3
+
+Book name: Choosing Our Religion: The Spiritual Lives of America's Nones
+Price: 28.42
+Rate: 4
+

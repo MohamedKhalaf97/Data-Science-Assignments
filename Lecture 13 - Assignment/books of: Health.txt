@@ -1,0 +1,16 @@
+Book name: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+Price: 49.05
+Rate: 3
+
+Book name: Eat Fat, Get Thin
+Price: 54.07
+Rate: 2
+
+Book name: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
+Price: 49.71
+Rate: 5
+
+Book name: The Art and Science of Low Carbohydrate Living
+Price: 52.98
+Rate: 5
+

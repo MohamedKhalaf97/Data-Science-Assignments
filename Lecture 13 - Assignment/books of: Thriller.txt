@@ -1,0 +1,44 @@
+Book name: In Her Wake
+Price: 12.84
+Rate: 1
+
+Book name: The Elephant Tree
+Price: 23.82
+Rate: 5
+
+Book name: Behind Closed Doors
+Price: 52.22
+Rate: 4
+
+Book name: You (You #1)
+Price: 43.61
+Rate: 5
+
+Book name: The Guilty (Will Robie #4)
+Price: 13.82
+Rate: 2
+
+Book name: The 14th Colony (Cotton Malone #11)
+Price: 39.24
+Rate: 1
+
+Book name: Give It Back
+Price: 18.32
+Rate: 2
+
+Book name: Killing Floor (Jack Reacher #1)
+Price: 31.49
+Rate: 4
+
+Book name: The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)
+Price: 59.71
+Rate: 3
+
+Book name: Far From True (Promise Falls Trilogy #2)
+Price: 34.93
+Rate: 2
+
+Book name: The Travelers
+Price: 15.77
+Rate: 1
+

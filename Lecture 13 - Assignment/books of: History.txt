@@ -1,0 +1,72 @@
+Book name: Sapiens: A Brief History of Humankind
+Price: 54.23
+Rate: 5
+
+Book name: Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink
+Price: 25.52
+Rate: 1
+
+Book name: The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind
+Price: 19.73
+Rate: 1
+
+Book name: Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics
+Price: 36.28
+Rate: 2
+
+Book name: Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History
+Price: 59.64
+Rate: 1
+
+Book name: Zealot: The Life and Times of Jesus of Nazareth
+Price: 24.7
+Rate: 3
+
+Book name: A Distant Mirror: The Calamitous 14th Century
+Price: 14.58
+Rate: 3
+
+Book name: 1491: New Revelations of the Americas Before Columbus
+Price: 21.8
+Rate: 3
+
+Book name: Brilliant Beacons: A History of the American Lighthouse
+Price: 11.45
+Rate: 3
+
+Book name: "Most Blessed of the Patriarchs": Thomas Jefferson and the Empire of the Imagination
+Price: 44.48
+Rate: 5
+
+Book name: A Short History of Nearly Everything
+Price: 52.4
+Rate: 5
+
+Book name: The Rise and Fall of the Third Reich: A History of Nazi Germany
+Price: 39.67
+Rate: 2
+
+Book name: Catherine the Great: Portrait of a Woman
+Price: 58.55
+Rate: 4
+
+Book name: The Mathews Men: Seven Brothers and the War Against Hitler's U-boats
+Price: 42.91
+Rate: 5
+
+Book name: The Hiding Place
+Price: 55.91
+Rate: 4
+
+Book name: America's War for the Greater Middle East: A Military History
+Price: 51.22
+Rate: 2
+
+Book name: The Guns of August
+Price: 14.54
+Rate: 2
+
+Book name: House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth
+Price: 43.7
+Rate: 2
+

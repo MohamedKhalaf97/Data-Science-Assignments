@@ -1,0 +1,80 @@
+Book name: Sharp Objects
+Price: 47.82
+Rate: 4
+
+Book name: In a Dark, Dark Wood
+Price: 19.63
+Rate: 1
+
+Book name: The Past Never Ends
+Price: 56.5
+Rate: 4
+
+Book name: A Murder in Time
+Price: 16.64
+Rate: 1
+
+Book name: The Murder of Roger Ackroyd (Hercule Poirot #4)
+Price: 44.1
+Rate: 4
+
+Book name: The Last Mile (Amos Decker #2)
+Price: 54.21
+Rate: 2
+
+Book name: That Darkness (Gardiner and Renner #1)
+Price: 13.92
+Rate: 1
+
+Book name: Tastes Like Fear (DI Marnie Rome #3)
+Price: 10.69
+Rate: 1
+
+Book name: A Time of Torment (Charlie Parker #14)
+Price: 48.35
+Rate: 5
+
+Book name: A Study in Scarlet (Sherlock Holmes #1)
+Price: 16.73
+Rate: 2
+
+Book name: Poisonous (Max Revere Novels #3)
+Price: 26.8
+Rate: 3
+
+Book name: Murder at the 42nd Street Library (Raymond Ambler #1)
+Price: 54.36
+Rate: 4
+
+Book name: Most Wanted
+Price: 35.28
+Rate: 3
+
+Book name: Hide Away (Eve Duncan #20)
+Price: 11.84
+Rate: 1
+
+Book name: Boar Island (Anna Pigeon #19)
+Price: 59.48
+Rate: 3
+
+Book name: The Widow
+Price: 27.26
+Rate: 2
+
+Book name: Playing with Fire
+Price: 13.71
+Rate: 3
+
+Book name: What Happened on Beale Street (Secrets of the South Mysteries #2)
+Price: 25.37
+Rate: 5
+
+Book name: The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)
+Price: 52.3
+Rate: 5
+
+Book name: Delivering the Truth (Quaker Midwife Mystery #1)
+Price: 20.89
+Rate: 4
+

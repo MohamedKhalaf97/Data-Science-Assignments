@@ -1,0 +1,80 @@
+Book name: Soumission
+Price: 50.1
+Rate: 1
+
+Book name: Private Paris (Private #10)
+Price: 47.61
+Rate: 5
+
+Book name: We Love You, Charlie Freeman
+Price: 50.27
+Rate: 5
+
+Book name: Thirst
+Price: 17.27
+Rate: 5
+
+Book name: The Murder That Never Was (Forensic Instincts #5)
+Price: 54.11
+Rate: 3
+
+Book name: Tuesday Nights in 1980
+Price: 21.04
+Rate: 2
+
+Book name: The Vacationers
+Price: 42.15
+Rate: 4
+
+Book name: The Regional Office Is Under Attack!
+Price: 51.36
+Rate: 5
+
+Book name: Finders Keepers (Bill Hodges Trilogy #2)
+Price: 53.53
+Rate: 5
+
+Book name: The Time Keeper
+Price: 27.88
+Rate: 5
+
+Book name: The Testament of Mary
+Price: 52.67
+Rate: 4
+
+Book name: The First Hostage (J.B. Collins #2)
+Price: 25.85
+Rate: 3
+
+Book name: Take Me with You
+Price: 45.21
+Rate: 3
+
+Book name: Still Life with Bread Crumbs
+Price: 26.41
+Rate: 3
+
+Book name: Shtum
+Price: 55.84
+Rate: 4
+
+Book name: My Name Is Lucy Barton
+Price: 41.56
+Rate: 1
+
+Book name: My Mrs. Brown
+Price: 24.48
+Rate: 3
+
+Book name: Mr. Mercedes (Bill Hodges Trilogy #1)
+Price: 28.9
+Rate: 1
+
+Book name: I Am Pilgrim (Pilgrim #1)
+Price: 10.6
+Rate: 4
+
+Book name: Eligible (The Austen Project #4)
+Price: 27.09
+Rate: 3
+

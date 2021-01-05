@@ -1,0 +1,24 @@
+Book name: Redeeming Love
+Price: 20.47
+Rate: 5
+
+Book name: Close to You
+Price: 49.46
+Rate: 4
+
+Book name: Shadows of the Past (Logan Point #1)
+Price: 39.67
+Rate: 5
+
+Book name: Like Never Before (Walker Family #2)
+Price: 28.77
+Rate: 2
+
+Book name: Counted With the Stars (Out from Egypt #1)
+Price: 17.97
+Rate: 5
+
+Book name: If I Run (If I Run #1)
+Price: 49.97
+Rate: 4
+

@@ -1,0 +1,32 @@
+Book name: Wall and Piece
+Price: 44.18
+Rate: 4
+
+Book name: Feathers: Displays of Brilliant Plumage
+Price: 49.05
+Rate: 3
+
+Book name: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
+Price: 48.63
+Rate: 4
+
+Book name: The New Drawing on the Right Side of the Brain
+Price: 43.02
+Rate: 3
+
+Book name: History of Beauty
+Price: 10.29
+Rate: 4
+
+Book name: The Story of Art
+Price: 41.14
+Rate: 4
+
+Book name: The Art Book
+Price: 32.34
+Rate: 2
+
+Book name: Ways of Seeing
+Price: 39.51
+Rate: 5
+

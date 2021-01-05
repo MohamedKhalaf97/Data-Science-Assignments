@@ -1,0 +1,24 @@
+Book name: The Four Agreements: A Practical Guide to Personal Freedom
+Price: 17.66
+Rate: 5
+
+Book name: The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution
+Price: 32.24
+Rate: 5
+
+Book name: Chasing Heaven: What Dying Taught Me About Living
+Price: 37.8
+Rate: 2
+
+Book name: If I Gave You God's Phone Number....: Searching for Spirituality in America
+Price: 20.91
+Rate: 1
+
+Book name: Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain
+Price: 46.33
+Rate: 2
+
+Book name: A New Earth: Awakening to Your Life's Purpose
+Price: 55.65
+Rate: 5
+

@@ -1,0 +1,80 @@
+Book name: Birdsong: A Story in Pictures
+Price: 54.64
+Rate: 3
+
+Book name: The Bear and the Piano
+Price: 36.89
+Rate: 1
+
+Book name: The Secret of Dreadwillow Carse
+Price: 56.13
+Rate: 1
+
+Book name: The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”
+Price: 58.08
+Rate: 4
+
+Book name: Little Red
+Price: 13.47
+Rate: 3
+
+Book name: Walt Disney's Alice in Wonderland
+Price: 12.96
+Rate: 5
+
+Book name: Twenty Yawns
+Price: 22.08
+Rate: 2
+
+Book name: Rain Fish
+Price: 23.57
+Rate: 3
+
+Book name: Once Was a Time
+Price: 18.28
+Rate: 2
+
+Book name: Luis Paints the World
+Price: 53.95
+Rate: 3
+
+Book name: Nap-a-Roo
+Price: 25.08
+Rate: 1
+
+Book name: The Whale
+Price: 35.96
+Rate: 4
+
+Book name: Shrunken Treasures: Literary Classics, Short, Sweet, and Silly
+Price: 52.87
+Rate: 3
+
+Book name: Raymie Nightingale
+Price: 34.41
+Rate: 2
+
+Book name: Playing from the Heart
+Price: 32.38
+Rate: 1
+
+Book name: Maybe Something Beautiful: How Art Transformed a Neighborhood
+Price: 22.54
+Rate: 1
+
+Book name: The Wild Robot
+Price: 56.07
+Rate: 3
+
+Book name: The Thing About Jellyfish
+Price: 48.77
+Rate: 1
+
+Book name: The Lonely Ones
+Price: 43.59
+Rate: 5
+
+Book name: The Day the Crayons Came Home (Crayons)
+Price: 26.33
+Rate: 5
+

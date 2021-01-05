@@ -1,0 +1,80 @@
+Book name: Worlds Elsewhere: Journeys Around Shakespeare’s Globe
+Price: 40.3
+Rate: 5
+
+Book name: The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+Price: 31.05
+Rate: 3
+
+Book name: Reasons to Stay Alive
+Price: 26.41
+Rate: 2
+
+Book name: #HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.
+Price: 23.11
+Rate: 5
+
+Book name: Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness
+Price: 44.18
+Rate: 4
+
+Book name: Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity
+Price: 31.12
+Rate: 3
+
+Book name: The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+Price: 16.77
+Rate: 3
+
+Book name: The Gutsy Girl: Escapades for Your Life of Epic Adventure
+Price: 37.13
+Rate: 1
+
+Book name: The Electric Pencil: Drawings from Inside State Hospital No. 3
+Price: 56.06
+Rate: 1
+
+Book name: Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up
+Price: 41.83
+Rate: 4
+
+Book name: Reskilling America: Learning to Labor in the Twenty-First Century
+Price: 19.83
+Rate: 2
+
+Book name: In the Country We Love: My Family Divided
+Price: 22.0
+Rate: 4
+
+Book name: Everydata: The Misinformation Hidden in the Little Data You Consume Every Day
+Price: 54.35
+Rate: 2
+
+Book name: Call the Nurse: True Stories of a Country Nurse on a Scottish Isle
+Price: 29.14
+Rate: 5
+
+Book name: Algorithms to Live By: The Computer Science of Human Decisions
+Price: 30.81
+Rate: 1
+
+Book name: The Power of Now: A Guide to Spiritual Enlightenment
+Price: 43.54
+Rate: 2
+
+Book name: The Omnivore's Dilemma: A Natural History of Four Meals
+Price: 38.21
+Rate: 2
+
+Book name: The Genius of Birds
+Price: 17.24
+Rate: 1
+
+Book name: The Artist's Way: A Spiritual Path to Higher Creativity
+Price: 38.49
+Rate: 5
+
+Book name: So You've Been Publicly Shamed
+Price: 12.23
+Rate: 2
+

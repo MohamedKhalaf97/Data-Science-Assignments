@@ -1,0 +1,64 @@
+Book name: Mesaerion: The Best Science Fiction Stories 1800-1849
+Price: 37.59
+Rate: 1
+
+Book name: Join
+Price: 35.67
+Rate: 5
+
+Book name: William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)
+Price: 43.3
+Rate: 4
+
+Book name: The Project
+Price: 10.65
+Rate: 1
+
+Book name: Soft Apocalypse
+Price: 26.12
+Rate: 2
+
+Book name: Sleeping Giants (Themis Files #1)
+Price: 48.74
+Rate: 1
+
+Book name: Arena
+Price: 21.36
+Rate: 4
+
+Book name: Foundation (Foundation (Publication Order) #1)
+Price: 32.42
+Rate: 1
+
+Book name: The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)
+Price: 10.92
+Rate: 1
+
+Book name: Ready Player One
+Price: 19.07
+Rate: 4
+
+Book name: Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)
+Price: 33.26
+Rate: 2
+
+Book name: Dune (Dune #1)
+Price: 54.86
+Rate: 1
+
+Book name: Do Androids Dream of Electric Sheep? (Blade Runner #1)
+Price: 51.48
+Rate: 1
+
+Book name: Three Wishes (River of Time: California #1)
+Price: 44.18
+Rate: 2
+
+Book name: The Last Girl (The Dominion Trilogy #1)
+Price: 36.26
+Rate: 2
+
+Book name: Having the Barbarian's Baby (Ice Planet Barbarians #7.5)
+Price: 34.96
+Rate: 4
+

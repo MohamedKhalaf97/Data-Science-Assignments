@@ -1,0 +1,20 @@
+Book name: Louisa: The Extraordinary Life of Mrs. Adams
+Price: 16.85
+Rate: 2
+
+Book name: Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena
+Price: 21.15
+Rate: 2
+
+Book name: The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist
+Price: 39.55
+Rate: 1
+
+Book name: Benjamin Franklin: An American Life
+Price: 48.19
+Rate: 3
+
+Book name: The Rise of Theodore Roosevelt (Theodore Roosevelt #1)
+Price: 42.57
+Rate: 3
+

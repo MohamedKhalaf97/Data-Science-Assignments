@@ -1,0 +1,24 @@
+Book name: Without Borders (Wanderlove #1)
+Price: 45.07
+Rate: 2
+
+Book name: The Mistake (Off-Campus #2)
+Price: 43.29
+Rate: 3
+
+Book name: The Matchmaker's Playbook (Wingmen Inc. #1)
+Price: 55.85
+Rate: 1
+
+Book name: The Hook Up (Game On #1)
+Price: 36.29
+Rate: 5
+
+Book name: Shameless
+Price: 58.35
+Rate: 3
+
+Book name: Off Sides (Off #1)
+Price: 39.45
+Rate: 5
+

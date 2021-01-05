@@ -1,0 +1,80 @@
+Book name: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+Price: 52.29
+Rate: 5
+
+Book name: Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)
+Price: 16.28
+Rate: 1
+
+Book name: This One Summer
+Price: 19.49
+Rate: 4
+
+Book name: The Nameless City (The Nameless City #1)
+Price: 38.16
+Rate: 4
+
+Book name: Saga, Volume 5 (Saga (Collected Editions) #5)
+Price: 51.04
+Rate: 2
+
+Book name: Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)
+Price: 50.4
+Rate: 3
+
+Book name: Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)
+Price: 13.61
+Rate: 5
+
+Book name: Pop Gun War, Volume 1: Gift
+Price: 18.97
+Rate: 1
+
+Book name: Patience
+Price: 10.16
+Rate: 3
+
+Book name: Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)
+Price: 15.44
+Rate: 4
+
+Book name: orange: The Complete Collection 1 (orange: The Complete Collection #1)
+Price: 48.41
+Rate: 1
+
+Book name: Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)
+Price: 46.91
+Rate: 2
+
+Book name: Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)
+Price: 45.61
+Rate: 3
+
+Book name: Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)
+Price: 19.92
+Rate: 2
+
+Book name: I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)
+Price: 29.17
+Rate: 2
+
+Book name: I am a Hero Omnibus Volume 1
+Price: 54.63
+Rate: 3
+
+Book name: Giant Days, Vol. 2 (Giant Days #5-8)
+Price: 22.11
+Rate: 2
+
+Book name: Danganronpa Volume 1
+Price: 51.99
+Rate: 4
+
+Book name: Codename Baboushka, Volume 1: The Conclave of Death
+Price: 36.72
+Rate: 4
+
+Book name: Camp Midnight
+Price: 17.08
+Rate: 4
+

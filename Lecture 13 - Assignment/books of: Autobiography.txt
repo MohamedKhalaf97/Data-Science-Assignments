@@ -1,0 +1,36 @@
+Book name: The Argonauts
+Price: 10.93
+Rate: 2
+
+Book name: M Train
+Price: 27.18
+Rate: 1
+
+Book name: Lab Girl
+Price: 40.85
+Rate: 1
+
+Book name: Approval Junkie: Adventures in Caring Too Much
+Price: 58.81
+Rate: 5
+
+Book name: Running with Scissors
+Price: 12.91
+Rate: 4
+
+Book name: Me Talk Pretty One Day
+Price: 57.6
+Rate: 2
+
+Book name: Lust & Wonder
+Price: 11.87
+Rate: 2
+
+Book name: Life Without a Recipe
+Price: 59.04
+Rate: 5
+
+Book name: A Heartbreaking Work of Staggering Genius
+Price: 54.29
+Rate: 5
+

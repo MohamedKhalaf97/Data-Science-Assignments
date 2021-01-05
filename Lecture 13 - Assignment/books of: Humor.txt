@@ -1,0 +1,40 @@
+Book name: The Long Haul (Diary of a Wimpy Kid #9)
+Price: 44.07
+Rate: 1
+
+Book name: Old School (Diary of a Wimpy Kid #10)
+Price: 11.83
+Rate: 5
+
+Book name: I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction
+Price: 25.98
+Rate: 4
+
+Book name: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+Price: 14.75
+Rate: 5
+
+Book name: Dress Your Family in Corduroy and Denim
+Price: 43.68
+Rate: 3
+
+Book name: Toddlers Are A**holes: It's Not Your Fault
+Price: 25.55
+Rate: 1
+
+Book name: When You Are Engulfed in Flames
+Price: 30.89
+Rate: 5
+
+Book name: Naked
+Price: 31.69
+Rate: 3
+
+Book name: Lamb: The Gospel According to Biff, Christ's Childhood Pal
+Price: 55.5
+Rate: 5
+
+Book name: Holidays on Ice
+Price: 51.07
+Rate: 2
+

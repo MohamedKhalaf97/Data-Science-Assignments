@@ -1,0 +1,76 @@
+Book name: A Light in the Attic
+Price: 51.77
+Rate: 3
+
+Book name: The Black Maria
+Price: 52.15
+Rate: 1
+
+Book name: Shakespeare's Sonnets
+Price: 20.66
+Rate: 4
+
+Book name: Olio
+Price: 23.88
+Rate: 1
+
+Book name: You can't bury them all: Poems
+Price: 33.63
+Rate: 2
+
+Book name: Slow States of Collapse: Poems
+Price: 57.31
+Rate: 3
+
+Book name: Untitled Collection: Sabbath Poems 2014
+Price: 14.27
+Rate: 4
+
+Book name: Poems That Make Grown Women Cry
+Price: 14.19
+Rate: 4
+
+Book name: Night Sky with Exit Wounds
+Price: 41.05
+Rate: 1
+
+Book name: salt.
+Price: 46.78
+Rate: 4
+
+Book name: Quarter Life Poetry: Poems for the Young, Broke and Hangry
+Price: 50.89
+Rate: 5
+
+Book name: Out of Print: City Lights Spotlight No. 14
+Price: 53.64
+Rate: 5
+
+Book name: Les Fleurs du Mal
+Price: 29.04
+Rate: 5
+
+Book name: Howl and Other Poems
+Price: 40.45
+Rate: 2
+
+Book name: Leave This Song Behind: Teen Poetry at Its Best
+Price: 51.17
+Rate: 5
+
+Book name: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1)
+Price: 15.42
+Rate: 5
+
+Book name: The Crossover
+Price: 38.77
+Rate: 4
+
+Book name: Booked
+Price: 17.49
+Rate: 5
+
+Book name: Twenty Love Poems and a Song of Despair
+Price: 30.95
+Rate: 4
+

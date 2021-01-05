@@ -1,0 +1,80 @@
+Book name: Chase Me (Paris Nights #2)
+Price: 25.27
+Rate: 5
+
+Book name: Black Dust
+Price: 34.53
+Rate: 5
+
+Book name: Her Backup Boyfriend (The Sorensen Family #1)
+Price: 33.97
+Rate: 1
+
+Book name: First and First (Five Boroughs #3)
+Price: 15.97
+Rate: 4
+
+Book name: Fifty Shades Darker (Fifty Shades #2)
+Price: 21.96
+Rate: 1
+
+Book name: The Wedding Dress
+Price: 24.12
+Rate: 1
+
+Book name: Suddenly in Love (Lake Haven #1)
+Price: 55.99
+Rate: 2
+
+Book name: Something More Than This
+Price: 16.24
+Rate: 4
+
+Book name: Doing It Over (Most Likely To #1)
+Price: 35.61
+Rate: 3
+
+Book name: The Wedding Pact (The O'Malleys #2)
+Price: 32.61
+Rate: 3
+
+Book name: Hold Your Breath (Search and Rescue #1)
+Price: 28.82
+Rate: 1
+
+Book name: Dirty (Dive Bar #1)
+Price: 40.83
+Rate: 4
+
+Book name: Take Me Home Tonight (Rock Star Romance #3)
+Price: 53.98
+Rate: 3
+
+Book name: Off the Hook (Fishing for Trouble #1)
+Price: 47.67
+Rate: 3
+
+Book name: A Gentleman's Position (Society of Gentlemen #3)
+Price: 14.75
+Rate: 5
+
+Book name: Sit, Stay, Love
+Price: 20.9
+Rate: 3
+
+Book name: A Girl's Guide to Moving On (New Beginnings #2)
+Price: 31.3
+Rate: 1
+
+Book name: The Perfect Play (Play by Play #1)
+Price: 59.99
+Rate: 3
+
+Book name: Dark Lover (Black Dagger Brotherhood #1)
+Price: 12.87
+Rate: 1
+
+Book name: Changing the Game (Play by Play #2)
+Price: 13.38
+Rate: 3
+

@@ -1,0 +1,20 @@
+Book name: Online Marketing for Busy Authors: A Step-By-Step Guide
+Price: 46.35
+Rate: 1
+
+Book name: How to Be Miserable: 40 Strategies You Already Use
+Price: 46.03
+Rate: 1
+
+Book name: Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress
+Price: 52.15
+Rate: 3
+
+Book name: You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+Price: 12.08
+Rate: 3
+
+Book name: How to Stop Worrying and Start Living
+Price: 46.49
+Rate: 5
+

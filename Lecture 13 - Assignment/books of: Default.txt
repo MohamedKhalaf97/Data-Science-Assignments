@@ -1,0 +1,80 @@
+Book name: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+Price: 17.93
+Rate: 3
+
+Book name: The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+Price: 22.6
+Rate: 4
+
+Book name: Starving Hearts (Triangular Trade Trilogy, #1)
+Price: 13.99
+Rate: 2
+
+Book name: America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana
+Price: 22.5
+Rate: 3
+
+Book name: Aladdin and His Wonderful Lamp
+Price: 53.13
+Rate: 3
+
+Book name: Penny Maybe
+Price: 33.29
+Rate: 3
+
+Book name: Maude (1883-1993):She Grew Up with the country
+Price: 18.02
+Rate: 2
+
+Book name: The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer
+Price: 20.59
+Rate: 5
+
+Book name: Soul Reader
+Price: 39.58
+Rate: 2
+
+Book name: Bossypants
+Price: 49.46
+Rate: 2
+
+Book name: A World of Flavor: Your Gluten Free Passport
+Price: 42.95
+Rate: 1
+
+Book name: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
+Price: 56.76
+Rate: 5
+
+Book name: Tracing Numbers on a Train
+Price: 41.6
+Rate: 3
+
+Book name: Thirteen Reasons Why
+Price: 52.72
+Rate: 1
+
+Book name: The Secret (The Secret #1)
+Price: 27.37
+Rate: 4
+
+Book name: The Psychopath Test: A Journey Through the Madness Industry
+Price: 36.0
+Rate: 2
+
+Book name: The Kite Runner
+Price: 41.82
+Rate: 4
+
+Book name: The Girl on the Train
+Price: 55.02
+Rate: 2
+
+Book name: The Emerald Mystery
+Price: 23.15
+Rate: 2
+
+Book name: The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.
+Price: 32.0
+Rate: 3
+

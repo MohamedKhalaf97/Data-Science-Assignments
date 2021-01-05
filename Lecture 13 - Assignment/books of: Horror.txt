@@ -1,0 +1,68 @@
+Book name: Security
+Price: 39.25
+Rate: 2
+
+Book name: Follow You Home
+Price: 21.36
+Rate: 1
+
+Book name: The Loney
+Price: 23.4
+Rate: 1
+
+Book name: Pet Sematary
+Price: 10.56
+Rate: 3
+
+Book name: Doctor Sleep (The Shining #2)
+Price: 40.12
+Rate: 2
+
+Book name: Psycho: Sanitarium (Psycho #1.5)
+Price: 36.97
+Rate: 5
+
+Book name: Can You Keep a Secret? (Fear Street Relaunch #4)
+Price: 48.64
+Rate: 1
+
+Book name: Red Dragon (Hannibal Lecter #1)
+Price: 23.37
+Rate: 3
+
+Book name: Dracula the Un-Dead
+Price: 35.63
+Rate: 5
+
+Book name: Night Shift (Night Shift #1-20)
+Price: 12.75
+Rate: 4
+
+Book name: Needful Things
+Price: 47.51
+Rate: 4
+
+Book name: Misery
+Price: 34.79
+Rate: 2
+
+Book name: It
+Price: 25.01
+Rate: 3
+
+Book name: 'Salem's Lot
+Price: 49.56
+Rate: 4
+
+Book name: The Stand
+Price: 57.86
+Rate: 2
+
+Book name: The Girl with All the Gifts
+Price: 49.47
+Rate: 3
+
+Book name: House of Leaves
+Price: 54.89
+Rate: 1
+

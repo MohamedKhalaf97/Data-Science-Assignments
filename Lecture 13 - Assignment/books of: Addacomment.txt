@@ -1,0 +1,80 @@
+Book name: The Torch Is Passed: A Harding Family Story
+Price: 19.09
+Rate: 1
+
+Book name: The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy
+Price: 23.89
+Rate: 4
+
+Book name: The Art Forger
+Price: 40.76
+Rate: 3
+
+Book name: On a Midnight Clear
+Price: 14.07
+Rate: 3
+
+Book name: Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)
+Price: 53.9
+Rate: 2
+
+Book name: Shobu Samurai, Project Aryoku (#3)
+Price: 29.06
+Rate: 3
+
+Book name: Modern Romance
+Price: 28.26
+Rate: 5
+
+Book name: The White Queen (The Cousins' War #1)
+Price: 25.91
+Rate: 5
+
+Book name: The Song of Achilles
+Price: 37.4
+Rate: 5
+
+Book name: The Immortal Life of Henrietta Lacks
+Price: 40.67
+Rate: 2
+
+Book name: The Dovekeepers
+Price: 48.78
+Rate: 1
+
+Book name: More Than Music (Chasing the Dream #1)
+Price: 37.61
+Rate: 2
+
+Book name: Code Name Verity (Code Name Verity #1)
+Price: 22.13
+Rate: 4
+
+Book name: Cell
+Price: 20.29
+Rate: 4
+
+Book name: Angels Walking (Angels Walking #1)
+Price: 34.2
+Rate: 2
+
+Book name: A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer
+Price: 56.48
+Rate: 2
+
+Book name: A People's History of the United States
+Price: 40.79
+Rate: 2
+
+Book name: A Brush of Wings (Angels Walking #3)
+Price: 55.51
+Rate: 1
+
+Book name: Rook
+Price: 37.86
+Rate: 4
+
+Book name: The Midnight Watch: A Novel of the Titanic and the Californian
+Price: 26.2
+Rate: 1
+

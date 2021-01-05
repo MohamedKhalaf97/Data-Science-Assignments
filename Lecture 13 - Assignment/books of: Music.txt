@@ -1,0 +1,52 @@
+Book name: Rip it Up and Start Again
+Price: 35.02
+Rate: 5
+
+Book name: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991
+Price: 57.25
+Rate: 3
+
+Book name: How Music Works
+Price: 37.32
+Rate: 2
+
+Book name: Love Is a Mix Tape (Music #1)
+Price: 18.03
+Rate: 1
+
+Book name: Please Kill Me: The Uncensored Oral History of Punk
+Price: 31.19
+Rate: 4
+
+Book name: Kill 'Em and Leave: Searching for James Brown and the American Soul
+Price: 45.05
+Rate: 5
+
+Book name: Chronicles, Vol. 1
+Price: 52.6
+Rate: 2
+
+Book name: This Is Your Brain on Music: The Science of a Human Obsession
+Price: 38.4
+Rate: 1
+
+Book name: Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors
+Price: 12.36
+Rate: 3
+
+Book name: No One Here Gets Out Alive
+Price: 20.02
+Rate: 5
+
+Book name: Life
+Price: 31.58
+Rate: 5
+
+Book name: Old Records Never Die: One Man's Quest for His Vinyl and His Past
+Price: 55.66
+Rate: 2
+
+Book name: Forever Rockers (The Rocker #12)
+Price: 28.8
+Rate: 3
+

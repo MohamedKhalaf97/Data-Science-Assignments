@@ -1,0 +1,68 @@
+Book name: I Had a Nice Time And Other Lies...: How to find love & sh*t like that
+Price: 57.36
+Rate: 4
+
+Book name: Will You Won't You Want Me?
+Price: 13.86
+Rate: 3
+
+Book name: Keep Me Posted
+Price: 20.46
+Rate: 4
+
+Book name: Grey (Fifty Shades #4)
+Price: 48.49
+Rate: 4
+
+Book name: Meternity
+Price: 43.58
+Rate: 3
+
+Book name: Some Women
+Price: 13.73
+Rate: 5
+
+Book name: Shopaholic Ties the Knot (Shopaholic #3)
+Price: 48.39
+Rate: 5
+
+Book name: Can You Keep a Secret?
+Price: 21.94
+Rate: 1
+
+Book name: Twenties Girl
+Price: 42.8
+Rate: 2
+
+Book name: The Undomestic Goddess
+Price: 45.75
+Rate: 4
+
+Book name: The Nanny Diaries (Nanny #1)
+Price: 52.53
+Rate: 5
+
+Book name: The Devil Wears Prada (The Devil Wears Prada #1)
+Price: 44.29
+Rate: 1
+
+Book name: Something Borrowed (Darcy & Rachel #1)
+Price: 48.96
+Rate: 5
+
+Book name: Something Blue (Darcy & Rachel #2)
+Price: 54.62
+Rate: 1
+
+Book name: I've Got Your Number
+Price: 19.69
+Rate: 1
+
+Book name: The Edge of Reason (Bridget Jones #2)
+Price: 19.18
+Rate: 4
+
+Book name: Bridget Jones's Diary (Bridget Jones #1)
+Price: 29.82
+Rate: 1
+
